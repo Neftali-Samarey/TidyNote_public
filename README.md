@@ -5,14 +5,13 @@
 <div align = "center">
 <img src="screenshots/tidynote_master.png" width="400" />
 </div><br>
-#### Main view controller
+<center>Main view controller</center>
 
 
 <div align = "center">
-<img src="screenshots/tidynote_master.png" width="400" />
+<img src="screenshots/tidynote_newnote.png" width="400" />
 </div><br>
-#### Adding a new note
-
+<center>Adding a new note</center>
 
 ## Item
 
